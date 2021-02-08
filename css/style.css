@@ -1,0 +1,134 @@
+.bgimg{
+    background-image: url('../images/about-bg.jpg');
+    background-size: 100%, 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 510px;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    height: 60px;
+}
+.container h1{
+    color: #ff0;
+}
+.container h2{
+    color:coral;
+}
+.headerset{
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+.headerset h1{
+    font-size: 55px;
+    font-family: 'Poppins', sans-serif;
+}
+.headerset h2{
+    font-size: 45px;
+    font-family: 'Xanh Mono', monospace;
+}
+.collapse ul{
+ font-family: 'Poppins', sans-serif;   
+}
+.collapse li{
+    padding: 10px 20px;
+    font-size: 20px;
+    }
+
+
+.bt{
+    border-radius: 30px;
+    font-weight: 600;
+    color:black;
+    background-color:darkviolet
+  
+}
+.ourservices h1{
+    color:black;
+    font-family: 'Poppins', sans-serif; 
+}
+
+.ourservices h2{
+    color: black;
+}
+
+.row{
+    padding: 5px 0px 30px;
+    height: 300px;
+}
+.portfolio h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.imgsetting{
+    margin:10px 0px;
+    border-radius: 10%;
+    background-color: lightsalmon;
+}
+
+.card{
+    height: 250px;
+    width: 250px;
+}
+
+.ourteam{
+    height: 500px;
+    padding: 50px 50px 50px;
+    width: 100%;
+    background-color: lightgoldenrodyellow;
+}
+.ourteam h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.project{
+    background-color: skyblue;
+    text-align: center;
+}
+
+.project button{
+    width: 250px;
+    color: white;
+}
+
+.footer{
+    height: 30px;
+}
+.footer h5{
+    margin:20px 10px 30px;
+    text-align: center;
+}
+.contact{
+    height: 400px;
+    
+}
+.contact p{
+    margin-left: 80px;
+    text-align: justify;
+    height: 200px;
+}
+.link{
+    text-align: justify;
+    margin-left: 50px;
+    padding: 15px;
+   
+    line-height: normal;
+}
+.link button{
+    color: white;
+}
+.glink{
+    text-align: left;
+    margin-right: 50px;
+    padding: 15px;
+   
+    line-height: normal;
+}
+.glink button{
+    text-align: justify;
+    color: white;
+}
+
