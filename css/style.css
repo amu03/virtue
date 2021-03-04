@@ -127,8 +127,9 @@
    
     line-height: normal;
 }
-.glink button{
+.glink btn{
     text-align: justify;
     color: white;
+    background-color: aqua;
 }
 
